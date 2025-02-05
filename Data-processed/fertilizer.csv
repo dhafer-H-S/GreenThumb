@@ -1,0 +1,89 @@
+No,Crop,N,P,K,pH,Soil_Moisture
+1,Almonds,45,20,35,6.5,25
+2,Anise,40,15,30,6.0,20
+3,Apples,50,25,40,6.3,30
+4,Apricots,55,30,45,6.4,28
+5,Artichokes,40,20,35,6.8,35
+6,Asparagus,50,30,40,7.0,22
+7,Avocados,60,40,50,6.5,40
+8,Badian,35,20,30,6.1,25
+9,Barley,40,25,35,6.2,18
+10,Beans,50,30,45,6.0,28
+11,Beans green,45,25,40,6.0,30
+12,Berries nes,55,35,50,5.8,35
+13,Broad Beans,50,30,45,6.3,28
+14,Cabbages and other brassicas,45,20,35,6.8,30
+15,Carobs,40,15,30,6.5,22
+16,Carrots and turnips,50,25,40,6.2,30
+17,Cauliflowers and broccoli,45,20,35,6.8,28
+18,Cereals,40,25,35,6.5,20
+19,Cereals nes,40,25,35,6.3,22
+20,Cherries,50,30,40,6.4,30
+21,Chick peas,45,20,35,6.2,25
+22,Chillies,55,30,45,6.0,28
+23,Clementines,50,25,40,6.3,32
+24,Cranberries,60,35,50,5.5,40
+25,Cucumbers and gherkins,50,30,45,6.8,35
+26,Dates,40,20,30,6.5,20
+27,Eggplants (aubergines),45,25,40,6.4,30
+28,Fennel,40,20,35,6.2,25
+29,Fibre Crops Primary,50,30,45,6.5,28
+30,Figs,40,20,30,6.4,20
+31,Fruit Primary,55,35,50,6.3,35
+32,Garlic,45,25,40,6.2,25
+33,Grapefruit,50,30,45,6.5,30
+34,Grapes,55,35,50,6.3,28
+35,Hazelnuts,45,25,40,6.2,30
+36,Horse beans,50,30,45,6.4,28
+37,Kiwi fruit,60,40,55,6.5,35
+38,Leguminous,50,30,45,6.0,30
+39,Lemons,50,25,40,6.3,28
+40,Lentils,45,20,35,6.2,25
+41,Lettuce and chicory,40,20,30,6.8,35
+42,Limes,50,30,45,6.4,30
+43,Linseed,40,20,30,6.5,20
+44,Mandarins,55,35,50,6.3,30
+45,Melons,50,25,40,6.0,28
+46,Mushrooms and truffles,40,15,25,6.5,45
+47,Nuts nes,45,25,35,6.2,25
+48,Oats,40,20,30,6.3,20
+49,Oilcrops,45,25,40,6.5,25
+50,Olives,50,30,45,6.4,28
+51,Onions,40,20,35,6.2,30
+52,Oranges,55,35,50,6.3,30
+53,Papayas,50,30,45,6.5,32
+54,Peaches and nectarines,55,35,50,6.4,28
+55,Pears,50,30,45,6.3,30
+56,Peas,45,20,35,6.2,25
+57,Pistachios,50,30,45,6.5,28
+58,Plums and sloes,55,35,50,6.4,30
+59,Potatoes,60,40,55,6.2,35
+60,Pulses,50,30,45,6.5,28
+61,Pulses nes,50,30,45,6.3,30
+62,Pumpkins,45,25,40,6.8,32
+63,Pyrethrum,40,20,30,6.2,22
+64,Quinces,50,25,40,6.4,28
+65,Rapeseed,45,20,35,6.5,25
+66,Roots,40,20,30,6.2,22
+67,Roots and tubers nes,50,25,40,6.4,28
+68,Satsumas,55,35,50,6.3,30
+69,Seed cotton,50,30,45,6.5,28
+70,Sorghum,40,20,30,6.3,22
+71,Spices nes,50,30,45,6.4,28
+72,Spinach,45,25,40,6.0,30
+73,Strawberries,55,35,50,5.8,35
+74,Sugar Crops Primary,50,30,45,6.3,28
+75,Sugar beet,60,40,55,6.5,35
+76,Sunflower seed,50,25,40,6.4,28
+77,Tangerines,55,35,50,6.3,30
+78,Tobacco,40,20,30,6.0,25
+79,Tomatoes,50,30,45,6.5,30
+80,Treenuts,45,25,40,6.4,28
+81,Triticale,40,20,30,6.5,20
+82,Tubers,50,30,45,6.2,30
+83,Vegetables,45,25,40,6.8,35
+84,Vegetables Primary,45,25,40,6.3,28
+85,Vetches,40,20,30,6.2,22
+86,Watermelons,55,35,50,6.0,32
+87,Wheat,40,20,35,6.5,25
+88,tropical Fruit,60,40,55,6.3,40

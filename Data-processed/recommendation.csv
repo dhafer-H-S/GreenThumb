@@ -1,0 +1,89 @@
+Crop,N,P,K,pH,Soil_Moisture,Temperature,Light_Condition_Advice,Rainfall_or_Preferred_Watering
+Almonds,45,20,35,6.5,25,15-30°C,Full sunlight prefers long hot summers and well-drained soil,[20 liters / 50 mm] per week
+Anise,40,15,30,6.0,20,15-25°C,Full sunlight needs warm conditions with dry soil,[15 liters / 40 mm] per week
+Apples,50,25,40,6.3,30,15-25°C,Full sunlight requires cold winter dormancy and moderate rainfall,[25 liters / 60 mm] per week
+Apricots,55,30,45,6.4,28,20-30°C,Full sunlight needs hot summers and well-drained soil,[20 liters / 50 mm] per week
+Artichokes,40,20,35,6.8,35,15-25°C,Full sunlight thrives in cooler climates with adequate water,[30 liters / 75 mm] per week
+Asparagus,50,30,40,7.0,22,10-20°C,Full sunlight needs a cold winter to grow well,[15 liters / 40 mm] per week
+Avocados,60,40,50,6.5,40,20-30°C,Full sunlight sensitive to frost and requires well-drained acidic soil,[35 liters / 90 mm] per week
+Badian,35,20,30,6.1,25,20-25°C,Partial sunlight prefers warm climates with moderate humidity,[20 liters / 50 mm] per week
+Barley,40,25,35,6.2,18,10-20°C,Full sunlight prefers cool climates with moderate rainfall,[15 liters / 40 mm] per week
+Beans,50,30,45,6.0,28,15-25°C,Full sunlight prefers warm soil and a frost-free growing season,[25 liters / 60 mm] per week
+Beans green,45,25,40,6.0,30,15-25°C,Full sunlight best in warmer climates with consistent moisture,[25 liters / 60 mm] per week
+Berries nes,55,35,50,5.8,35,15-25°C,Full sunlight needs well-drained soil and consistent moisture,[30 liters / 75 mm] per week
+Broad Beans,50,30,45,6.3,28,10-20°C,Full sunlight thrives in cooler weather with moderate rainfall,[20 liters / 50 mm] per week
+Cabbages and other brassicas,45,20,35,6.8,30,15-20°C,Full sunlight prefers cool moist weather and rich soil,[25 liters / 60 mm] per week
+Carobs,40,15,30,6.5,22,15-25°C,Full sunlight drought-tolerant requires well-drained soil,[15 liters / 40 mm] per week
+Carrots and turnips,50,25,40,6.2,30,15-20°C,Full sunlight prefers cooler weather and consistent moisture,[25 liters / 60 mm] per week
+Cauliflowers and broccoli,45,20,35,6.8,28,15-20°C,Full sunlight thrives in cool weather with plenty of moisture,[25 liters / 60 mm] per week
+Cereals,40,25,35,6.5,20,15-25°C,Full sunlight needs full sun and regular rainfall,[20 liters / 50 mm] per week
+Cereals nes,40,25,35,6.3,22,15-25°C,Full sunlight well-drained soil and moderate water,[20 liters / 50 mm] per week
+Cherries,50,30,40,6.4,30,15-25°C,Full sunlight requires cold winters and dry warm summers,[25 liters / 60 mm] per week
+Chick peas,45,20,35,6.2,25,20-30°C,Full sunlight prefers dry warm weather,[20 liters / 50 mm] per week
+Chillies,55,30,45,6.0,28,20-30°C,Full sunlight needs hot dry weather,[25 liters / 60 mm] per week
+Clementines,50,25,40,6.3,32,15-25°C,Full sunlight prefers mild winters and hot summers,[25 liters / 60 mm] per week
+Cranberries,60,35,50,5.5,40,10-20°C,Partial sunlight prefers cooler acidic boggy soil,[30 liters / 75 mm] per week
+Cucumbers and gherkins,50,30,45,6.8,35,20-30°C,Full sunlight prefers warm sunny conditions with plenty of water,[30 liters / 75 mm] per week
+Dates,40,20,30,6.5,20,25-35°C,Full sunlight needs hot dry conditions and well-drained soil,[20 liters / 50 mm] per week
+Eggplants (aubergines),45,25,40,6.4,30,20-30°C,Full sunlight prefers warm temperatures and well-drained soil,[25 liters / 60 mm] per week
+Fennel,40,20,35,6.2,25,15-25°C,Full sunlight needs dry conditions and full sun,[20 liters / 50 mm] per week
+Fibre Crops Primary,50,30,45,6.5,28,15-25°C,Full sunlight prefers sunny conditions and moderate rainfall,[25 liters / 60 mm] per week
+Figs,40,20,30,6.4,20,20-30°C,Full sunlight thrives in hot dry climates,[20 liters / 50 mm] per week
+Fruit Primary,55,35,50,6.3,35,15-25°C,Full sunlight prefers warm sunny locations,[30 liters / 75 mm] per week
+Garlic,45,25,40,6.2,25,15-20°C,Full sunlight requires well-drained soil and a sunny spot,[20 liters / 50 mm] per week
+Grapefruit,50,30,45,6.5,30,20-30°C,Full sunlight needs plenty of sunlight and moderate temperatures,[25 liters / 60 mm] per week
+Grapes,55,35,50,6.3,28,15-25°C,Full sunlight requires sunny warm climates with well-drained soil,[30 liters / 75 mm] per week
+Hazelnuts,45,25,40,6.2,30,15-25°C,Full sunlight prefers cooler temperatures and well-drained soil,[25 liters / 60 mm] per week
+Horse beans,50,30,45,6.4,28,10-20°C,Full sunlight grows best in cooler climates,[20 liters / 50 mm] per week
+Kiwi fruit,60,40,55,6.5,35,15-25°C,Full sunlight requires mild winters and sunny warm summers,[30 liters / 75 mm] per week
+Leguminous,50,30,45,6.0,30,15-25°C,Full sunlight thrives in warm sunny climates,[25 liters / 60 mm] per week
+Lemons,50,25,40,6.3,28,20-30°C,Full sunlight needs full sun and dry warm conditions,[25 liters / 60 mm] per week
+Lentils,45,20,35,6.2,25,10-20°C,Full sunlight prefers cooler temperatures and moderate moisture,[20 liters / 50 mm] per week
+Lettuce and chicory,40,20,30,6.8,35,15-20°C,Full sunlight prefers cool moist conditions,[30 liters / 75 mm] per week
+Limes,50,30,45,6.4,30,20-30°C,Full sunlight requires full sun and warm temperatures,[25 liters / 60 mm] per week
+Linseed,40,20,30,6.5,20,15-25°C,Full sunlight needs well-drained soil and moderate sunlight,[20 liters / 50 mm] per week
+Mandarins,55,35,50,6.3,30,15-25°C,Full sunlight thrives in mild sunny conditions,[30 liters / 75 mm] per week
+Melons,50,25,40,6.0,28,20-30°C,Full sunlight requires full sun and warm dry conditions,[25 liters / 60 mm] per week
+Mushrooms and truffles,40,15,25,6.5,45,10-20°C,Low light prefers shaded damp cool environments,[35 liters / 90 mm] per week
+Nuts nes,45,25,35,6.2,25,15-25°C,Full sunlight requires well-drained soil and full sun,[20 liters / 50 mm] per week
+Oats,40,20,30,6.3,20,10-20°C,Full sunlight needs cool temperatures and moderate rainfall,[15 liters / 40 mm] per week
+Oilcrops,45,25,40,6.5,25,15-25°C,Full sunlight prefers sunny conditions and moderate rainfall,[25 liters / 60 mm] per week
+Olives,50,30,45,6.4,28,15-25°C,Full sunlight needs hot dry climates with well-drained soil,[25 liters / 60 mm] per week
+Onions,40,20,35,6.2,30,15-25°C,Full sunlight prefers cool to mild conditions and full sun,[25 liters / 60 mm] per week
+Oranges,55,35,50,6.3,30,15-25°C,Full sunlight needs warm sunny conditions with moderate rainfall,[30 liters / 75 mm] per week
+Papayas,50,30,45,6.5,32,25-30°C,Full sunlight needs hot humid conditions with full sun,[35 liters / 90 mm] per week
+Peaches and nectarines,55,35,50,6.4,28,20-30°C,Full sunlight prefers hot summers and cold winters,[30 liters / 75 mm] per week
+Pears,50,30,45,6.3,30,15-25°C,Full sunlight prefers cool winters and mild summers,[25 liters / 60 mm] per week
+Peas,45,20,35,6.2,25,10-20°C,Full sunlight requires cool weather and moderate moisture,[20 liters / 50 mm] per week
+Pistachios,50,30,45,6.5,28,20-30°C,Full sunlight needs hot dry summers,[25 liters / 60 mm] per week
+Plums and sloes,55,35,50,6.4,30,15-25°C,Full sunlight prefers warm sunny climates with moderate rainfall,[30 liters / 75 mm] per week
+Potatoes,60,40,55,6.2,35,15-25°C,Full sunlight requires cool to moderate temperatures with plenty of moisture,[35 liters / 90 mm] per week
+Pulses,50,30,45,6.5,28,15-25°C,Full sunlight needs full sun and well-drained soil,[25 liters / 60 mm] per week
+Pulses nes,50,30,45,6.3,30,15-25°C,Full sunlight thrives in sunny dry climates,[25 liters / 60 mm] per week
+Pumpkins,45,25,40,6.8,32,20-30°C,Full sunlight requires warm sunny conditions,[30 liters / 75 mm] per week
+Pyrethrum,40,20,30,6.2,22,15-20°C,Partial sunlight prefers cooler shaded conditions,[20 liters / 50 mm] per week
+Quinces,50,25,40,6.4,28,15-25°C,Full sunlight thrives in warm sunny conditions,[25 liters / 60 mm] per week
+Rapeseed,45,20,35,6.5,25,10-20°C,Full sunlight grows best in cool climates with plenty of sunlight,[20 liters / 50 mm] per week
+Roots,40,20,30,6.2,22,10-20°C,Full sunlight prefers cool moist conditions,[20 liters / 50 mm] per week
+Roots and tubers nes,50,25,40,6.4,28,10-20°C,Full sunlight needs cool temperatures and consistent moisture,[25 liters / 60 mm] per week
+Satsumas,55,35,50,6.3,30,15-25°C,Full sunlight needs warm temperatures and full sunlight,[30 liters / 75 mm] per week
+Seed cotton,50,30,45,6.5,28,25-35°C,Full sunlight thrives in hot dry climates with full sun,[35 liters / 90 mm] per week
+Sorghum,40,20,30,6.3,22,20-30°C,Full sunlight prefers warm dry conditions,[20 liters / 50 mm] per week
+Spices nes,50,30,45,6.4,28,20-30°C,Full sunlight needs hot sunny conditions,[25 liters / 60 mm] per week
+Spinach,45,25,40,6.0,30,10-20°C,Partial sunlight prefers cool conditions and moderate water,[25 liters / 60 mm] per week
+Strawberries,55,35,50,5.8,35,15-25°C,Full sunlight needs cool moist conditions with full sun,[30 liters / 75 mm] per week
+Sugar Crops Primary,50,30,45,6.3,28,20-30°C,Full sunlight thrives in sunny warm conditions,[25 liters / 60 mm] per week
+Sugar beet,60,40,55,6.5,35,10-20°C,Full sunlight needs cooler conditions and moist soil,[35 liters / 90 mm] per week
+Sunflower seed,50,25,40,6.4,28,20-30°C,Full sunlight needs full sun and warm temperatures,[25 liters / 60 mm] per week
+Tangerines,55,35,50,6.3,30,15-25°C,Full sunlight requires warm sunny weather,[30 liters / 75 mm] per week
+Tobacco,40,20,30,6.0,25,20-30°C,Full sunlight needs warm temperatures and full sun,[20 liters / 50 mm] per week
+Tomatoes,50,30,45,6.5,30,20-30°C,Full sunlight requires full sun and moderate moisture,[25 liters / 60 mm] per week
+Treenuts,45,25,40,6.4,28,15-25°C,Full sunlight prefers warm sunny climates with moderate water,[25 liters / 60 mm] per week
+Triticale,40,20,30,6.5,20,10-20°C,Full sunlight thrives in cooler climates with moderate rainfall,[20 liters / 50 mm] per week
+Tubers,50,30,45,6.2,30,15-25°C,Full sunlight requires cool weather with moderate moisture,[25 liters / 60 mm] per week
+Vegetables,45,25,40,6.8,35,15-25°C,Full sunlight prefers moderate temperatures and plenty of sun,[30 liters / 75 mm] per week
+Vegetables Primary,45,25,40,6.3,28,15-25°C,Full sunlight grows best in temperate climates,[25 liters / 60 mm] per week
+Vetches,40,20,30,6.2,22,10-20°C,Full sunlight thrives in cooler weather,[20 liters / 50 mm] per week
+Watermelons,55,35,50,6.0,32,25-35°C,Full sunlight requires hot sunny weather with plenty of water,[35 liters / 90 mm] per week
+Wheat,40,20,35,6.5,25,15-25°C,Full sunlight thrives in cool climates with moderate rainfall,[20 liters / 50 mm] per week
+Wheat nes,45,25,40,6.3,28,15-25°C,Full sunlight needs moderate temperatures and well-drained soil,[25 liters / 60 mm] per week

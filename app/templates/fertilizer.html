@@ -1,0 +1,188 @@
+{% extends 'layout.html' %} {% block body %}
+
+<style>
+  html body {
+    background-color: rgba(165, 253, 246, 0.19);
+}
+</style>
+<!--Form Section-->
+<br /><br />
+<h2 style="text-align: center; margin: 0px; color: black">
+  <b>Get informed advice on fertilizer based on soil</b>
+</h2>
+<br />
+
+<div
+  style="
+    width: 350px;
+    height: 40rem;
+    margin: 0px auto;
+    color: black;
+    border-radius: 25px;
+    padding: 10px 10px;
+  "
+>
+  <form method="POST" action="{{ url_for('fertilizer_recommend') }}">
+    <div class="form-group">
+      <label for="Nitrogen" style="font-size: 17px"><b>Nitrogen</b></label>
+      <input
+        type="number"
+        class="form-control"
+        id="Nitrogen"
+        name="nitrogen"
+        placeholder="Enter the value (example:50)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+    <div class="form-group">
+      <label for="Phosphorous" style="font-size: 17px"
+        ><b>Phosphorous</b></label
+      >
+      <input
+        type="number"
+        class="form-control"
+        id="Phosphorous"
+        name="phosphorous"
+        placeholder="Enter the value (example:50)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="Pottasium" style="font-size: 17px"><b>Pottasium</b></label>
+      <input
+        type="number"
+        class="form-control"
+        id="Pottasium"
+        name="pottasium"
+        placeholder="Enter the value (example:50)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="crop" style="font-size: 17px"
+        ><b>Crop you want to grow</b></label
+      >
+      <select
+        name="cropname"
+        class="form-control"
+        id="crop"
+        placeholder="Select a crop"
+        style="font-weight: bold"
+        required
+      >
+        <option selected>Select crop</option>
+        <option>Almonds</option>
+        <option>Anise</option>
+        <option>Apples</option>
+        <option>Apricots</option>
+        <option>Artichokes</option>
+        <option>Asparagus</option>
+        <option>Avocados</option>
+        <option>Badian</option>
+        <option>Barley</option>
+        <option>Beans</option>
+        <option>Beans green</option>
+        <option>Berries nes</option>
+        <option>Broad Beans</option>
+        <option>Cabbages and other brassicas</option>
+        <option>Carobs</option>
+        <option>Carrots and turnips</option>
+        <option>Cauliflowers and broccoli</option>
+        <option>Cereals</option>
+        <option>Cereals nes</option>
+        <option>Cherries</option>
+        <option>Chick peas</option>
+        <option>Chillies</option>
+        <option>Clementines</option>
+        <option>Cranberries</option>
+        <option>Cucumbers and gherkins</option>
+        <option>Dates</option>
+        <option>Eggplants (aubergines)</option>
+        <option>Fennel</option>
+        <option>Fibre Crops Primary</option>
+        <option>Figs</option>
+        <option>Fruit Primary</option>
+        <option>Garlic</option>
+        <option>Grapefruit</option>
+        <option>Grapes</option>
+        <option>Hazelnuts</option>
+        <option>Horse beans</option>
+        <option>Kiwi fruit</option>
+        <option>Leguminous</option>
+        <option>Lemons</option>
+        <option>Lentils</option>
+        <option>Lettuce and chicory</option>
+        <option>Limes</option>
+        <option>Linseed</option>
+        <option>Mandarins</option>
+        <option>Melons</option>
+        <option>Mushrooms and truffles</option>
+        <option>Nuts nes</option>
+        <option>Oats</option>
+        <option>Oilcrops</option>
+        <option>Olives</option>
+        <option>Onions</option>
+        <option>Oranges</option>
+        <option>Papayas</option>
+        <option>Peaches and nectarines</option>
+        <option>Pears</option>
+        <option>Peas</option>
+        <option>Pistachios</option>
+        <option>Plums and sloes</option>
+        <option>Potatoes</option>
+        <option>Pulses</option>
+        <option>Pulses nes</option>
+        <option>Pumpkins</option>
+        <option>Pyrethrum</option>
+        <option>Quinces</option>
+        <option>Rapeseed</option>
+        <option>Roots</option>
+        <option>Roots and tubers nes</option>
+        <option>Satsumas</option>
+        <option>Seed cotton</option>
+        <option>Sorghum</option>
+        <option>Spices nes</option>
+        <option>Spinach</option>
+        <option>Strawberries</option>
+        <option>Sugar Crops Primary</option>
+        <option>Sugar beet</option>
+        <option>Sunflower seed</option>
+        <option>Tangerines</option>
+        <option>Tobacco</option>
+        <option>Tomatoes</option>
+        <option>Treenuts</option>
+        <option>Triticale</option>
+        <option>Tubers</option>
+        <option>Vegetables</option>
+        <option>Vegetables Primary</option>
+        <option>Vetches</option>
+        <option>Watermelons</option>
+        <option>Wheat</option>
+        <option>tropical Fruit</option>
+      </select>
+    </div>
+
+    <div class="d-flex justify-content-center">
+      <button
+        type="submit"
+        class="btn btn-info"
+        style="
+          color: black;
+          font-weight: bold;
+          width: 130px;
+          height: 50px;
+          border-radius: 12px;
+          font-size: 21px;
+        "
+      >
+        Predict
+      </button>
+    </div>
+  </form>
+</div>
+{% endblock %}

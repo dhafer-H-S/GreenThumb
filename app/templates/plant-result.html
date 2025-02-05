@@ -1,0 +1,42 @@
+{% extends 'layout.html' %} {% block body %}
+
+<style>
+  .mt-0 {
+  margin-top: 50 !important;
+}
+</style>
+
+<div class="container py-2 mx-auto my-50 h-10 " style="margin: 12rem;">
+  <div class="row">
+      <div class="col-sm py-2 py-md-3">
+          <div class="card card-body" style="justify-content: center;">
+               {% if conditions %}
+               <br />
+               <h1 class="text-center"><b>{{ current_conditions }}</b></h1>
+               <br />
+               <h2 class="text-center"><b>Preferred Conditions for {{ conditions['Crop'] }}</b></h2>
+               <br />
+               <p class="text-center"><b>Nitrogen :</b> {{ conditions['N'] }} kg/ha (kilograms per hectare) – Typically used for macronutrient concentrations in soil.</p>
+               <br />
+               <p class="text-center"><b>Phosphorous :</b> {{ conditions['P'] }}  kg/ha – Measured similarly to Nitrogen.</p>
+               <br />
+               <p class="text-center"><b>Pottasium (K):</b> {{ conditions['K'] }} kg/ha – Measured in kilograms per hectare for soil nutrient content.</p>
+               <br />
+               <p class="text-center"><b>pH level:</b> {{ conditions['pH'] }} A dimensionless value – The pH scale ranges from 0 to 14.</p>
+               <br />
+               <p class="text-center"><b>Soil Moisture:</b> {{ conditions['Soil_Moisture'] }} % (percentage) – Represents the water content in the soil.</p>
+               <br />
+               <p class="text-center"><b>Temperature:</b> {{ conditions['Temperature'] }} (degrees Celsius) – Standard for temperature in agriculture. </p>
+               <br />
+               <p class="text-center"><b>Light Condition Advice:</b> {{ conditions['Light_Condition_Advice'] }}</p>
+               <br />
+               <p class="text-center"><b>Watering or rainfall Advice:</b> {{ conditions['Rainfall_or_Preferred_Watering'] }}</p>
+
+               {% else %}
+               <h1 class="text-center"><b>{{ error }}</b></h1>
+               {% endif %}
+          </div>
+      </div>
+  </div>
+</div>
+{% endblock %}
